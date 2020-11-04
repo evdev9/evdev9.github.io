@@ -45,7 +45,7 @@ First, you'll need to setup a Github repository to host your Github Pages site:
 4. Click the **Add a README file** checkbox
 5. Click the  **Create repository** button
 
-![How to create a repository]()
+![How to create a repository](https://github.com/evdev9/evdev9.github.io/blob/main/createRepo.gif)
 
 ### Adding your Resume
 The next step is to add your resume to the repository that will be transformed into a static site using Github Pages.
@@ -60,7 +60,7 @@ The next step is to add your resume to the repository that will be transformed i
 7. At the top of the page, change the file name to `index.md`
 8. Click the **Commit changes** button at the bottom of the page
 
-![How to add your resume]()
+![How to add your resume](https://github.com/evdev9/evdev9.github.io/blob/main/adding-resume.gif)
 
 ### Selecting a Jekyll theme for your site
 Github pages is powered by Jekyll, a simple static site generator. You can select a Jekyll theme using the Github Pages intergration to stylize your resume.
@@ -75,7 +75,7 @@ How to select a Jekyll theme using Github Pages:
 7. Click **Select Theme** once you have made your choice
 8. Click the **Commit changes** button at the bottom of the page
 
-![How to select a Jekyll Theme]()
+![How to select a Jekyll Theme](https://github.com/evdev9/evdev9.github.io/blob/main/JekyllTheme.gif)
 
 ### Viewing and editing your Github Pages Resume
 - You can now view your resume in your web browser using the address `https://username.github.io` where `username` is your Github username.
