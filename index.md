@@ -1,29 +1,29 @@
 # Evan Lamoureux
-Location: Winnipeg, MB
-Email: evanlamoureux9@gmail.com
+Location: Winnipeg, MB\
+Email: evanlamoureux9@gmail.com\
 Phone: 2042304524
 
 # Work Experience
 ### Windshield Repair Technician
-**Boyd Autobody & Glass** - Winnipeg, MB
-April 2018 to October 2019
-Customer service and sales. Selling & performing windshield chip/crack repairs, submitting online insurance claims, site
+**Boyd Autobody & Glass** - Winnipeg, MB\
+April 2018 to October 2019\
+Customer service and sales. Selling & performing windshield chip/crack repairs, submitting online insurance claims, site\
 management and upkeep.
 
 ### Coaching Assistant, volunteer
-**Special Olympics** - Winnipeg, MB
-September 2015 to June 2017
+**Special Olympics** - Winnipeg, MB\
+September 2015 to June 2017\
 Coaching, teaching and training of special Olympics athletes of all ages. Responsible for coordination of group training and
 sport education.
 
 ### Dishwasher/Food Prep
-**Stella's Café** - Winnipeg, MB
-June 2016 to September 2016
+**Stella's Café** - Winnipeg, MB\
+June 2016 to September 2016\
 Dish washing and food prep, customer service.
 
 ### Event Server
-**Olymel S.E.C** - Winnipeg, MB
-September 2014 to 2016
+**Olymel S.E.C** - Winnipeg, MB\
+September 2014 to 2016\
 Serving and providing product information to potential customers at various events and food shows
 
 # Education
