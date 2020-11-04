@@ -90,12 +90,12 @@ How to select a Jekyll theme using Github Pages:
 In his book *Modern Technical Writing*, Andrew Etter describes a series of guiding principles for technical writing in the software industry. In this section, I will define and relate a couple of those principles to the practical steps described above.
 
 **Principle 1: Build a Website**
-For this principle, Etter mentions that we should build and host websites, rather than distributing PDFs or other document files. Etter eludes to how documentation goes out of date, and will often require revision. Hosting content on a website allows for instant revision and access to your content, while a downloaded file does not.\
+For this principle, Etter mentions that we should build and host websites, rather than distributing PDFs or other document files. Etter eludes to how documentation goes out of date, and will often require revision. Hosting content on a website allows for instant revision and access to your content, while a downloaded file does not.
 
 This principle relates to the entire process of hosting a resume on Github Pages, as a resume will require revision as time goes on. Whether it be new skills and qualifications you aquire, or new work experience, editing a pdf file and sending it to employers every time is both tedious and unnessesary.
 
 **Principle 2: Use Lightweight Markup**
-Here Etter describes how we should use a lightweight markup language to format our content. Writing in HTML or XML is cumbersome and completely unnessesary when a much easier solution such as Markdown exists to streamline the process. Lightweight markup languages are also more easily accessible when compared to other text formatting tools such as Word; there are lightweight markup options for almost every operation system, and on top of that, tools such as Markdown are free.\
+Here Etter describes how we should use a lightweight markup language to format our content. Writing in HTML or XML is cumbersome and completely unnessesary when a much easier solution such as Markdown exists to streamline the process. Lightweight markup languages are also more easily accessible when compared to other text formatting tools such as Word; there are lightweight markup options for almost every operation system, and on top of that, tools such as Markdown are free.
 
 This principle relates to the steps involved in learning and using Markdown to format a resume, as well as selecting a suitable Markdown editor for your operating system. Exporting a resume formatted using software such as Word into HTML, to be used on a static website, is much more difficult than with Markdown, as Markdown is built from the ground up to be easily translated into HTML.
 
