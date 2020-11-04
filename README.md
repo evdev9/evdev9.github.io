@@ -39,14 +39,13 @@ Once you have formatted your resume using Markdown, you can begin to host your r
 Github allows for effective version control and collaboration for any project. Even when hosting a simple document such as a resume, these tools are a great asset.
 
 First, you'll need to setup a Github repository to host your Github Pages site:
-1. [Create a Github account] (if you haven't already)
+1. [Create a Github account] (if you haven't already) and log in
 2. [Create a new repository]
 3. Name the repository `username.github.io` where `username` is your Github username. You can find your github username by clicking your profile icon at the top right of the page.
 4. Click the **Add a README file** checkbox
 5. Click the  **Create repository** button
 
-
-GIF featuring resume goes here
+![How to create a repository]()
 
 ### Adding your Resume
 The next step is to add your resume to the repository that will be transformed into a static site using Github Pages.
@@ -54,11 +53,14 @@ The next step is to add your resume to the repository that will be transformed i
 1. Click the **Add file** dropdown menu
 2. Click **Upload files**
 3. Drag your resume .md file into the box to add it to your repository
+4. Click the **Commit changes** button at the bottom of the page
 4. Navigate to your Github respository
 5. Click the name of your resume file in your repository
 6. Click the 'pencil' icon near the top right of your resume
 7. At the top of the page, change the file name to `index.md`
 8. Click the **Commit changes** button at the bottom of the page
+
+![How to add your resume]()
 
 ### Selecting a Jekyll theme for your site
 Github pages is powered by Jekyll, a simple static site generator. You can select a Jekyll theme using the Github Pages intergration to stylize your resume.
@@ -68,9 +70,12 @@ How to select a Jekyll theme using Github Pages:
 2. Click on the **Settings** button at the top of the page
 3. Scroll down to the **Github Pages** section
 4. Under **Source**, using the **Branch** dropdown menu, ensure the "main" branch is selected
-5. Click **Change Theme**
+5. Click **Choose Theme**
 6. Browse the Jekyll themes by clicking the thumbnails at the top of the page, and find one you like
 7. Click **Select Theme** once you have made your choice
+8. Click the **Commit changes** button at the bottom of the page
+
+![How to select a Jekyll Theme]()
 
 ### Viewing and editing your Github Pages Resume
 - You can now view your resume in your web browser using the address `https://username.github.io` where `username` is your Github username.
