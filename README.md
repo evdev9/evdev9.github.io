@@ -82,6 +82,8 @@ How to select a Jekyll theme using Github Pages:
 - You can edit and reupload your resume .md file to update its contents on your site
 - You can configure your Jekyll theme using the `_config.yml` file located in your respository. A tutorial on how to configure Jekyll themes can be found the the 'More Resources' section of this README.
 
+![Viewing your Resume]()
+
 # Relating Practical Steps
 
 ### General principles from Andrew Etter's Book: *Modern Technical Writing*
